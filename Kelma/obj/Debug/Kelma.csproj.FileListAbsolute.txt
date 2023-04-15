@@ -1,0 +1,88 @@
+C:\Users\Ali Khattab\Documents\SharpDevelop Projects\Kelma\Kelma\bin\Debug\Kelma.exe
+C:\Users\Ali Khattab\Documents\SharpDevelop Projects\Kelma\Kelma\bin\Debug\Kelma.pdb
+C:\Users\Ali Khattab\Documents\SharpDevelop Projects\Kelma\Kelma\obj\Debug\Kelma.exe
+C:\Users\Ali Khattab\Documents\SharpDevelop Projects\Kelma\Kelma\obj\Debug\Kelma.pdb
+C:\Users\Ali Khattab\Documents\SharpDevelop Projects\Kelma\Kelma\obj\Debug\Kelma.MainForm.resources
+C:\Users\Ali Khattab\Documents\SharpDevelop Projects\Kelma\Kelma\obj\Debug\Kelma.csproj.GenerateResource.Cache
+C:\Users\Ali Khattab\Documents\SharpDevelop Projects\Kelma\Kelma\obj\Debug\Kelma.csprojResolveAssemblyReference.cache
+C:\Users\Ali Khattab\Desktop\Kelma\Kelma\bin\Debug\Kelma.exe
+C:\Users\Ali Khattab\Desktop\Kelma\Kelma\bin\Debug\Kelma.pdb
+C:\Users\Ali Khattab\Desktop\Kelma\Kelma\obj\Debug\Kelma.csprojResolveAssemblyReference.cache
+C:\Users\Ali Khattab\Desktop\Kelma\Kelma\obj\Debug\Kelma.csproj.GenerateResource.Cache
+C:\Users\Ali Khattab\Desktop\Kelma\Kelma\obj\Debug\Kelma.exe
+C:\Users\Ali Khattab\Desktop\Kelma\Kelma\obj\Debug\Kelma.pdb
+C:\Users\Ali Khattab\Desktop\Kelma\Kelma\obj\Debug\Kelma.handle.resources
+C:\Users\Ali Khattab\Desktop\Kelma\Kelma\obj\Debug\Kelma.Zodiac.resources
+C:\Users\Ali Khattab\Desktop\Kelma\Kelma\obj\Debug\Kelma.notewrap.resources
+C:\Users\Ali Khattab\Desktop\Kelma - Copy\Kelma\bin\Debug\Kelma.exe
+C:\Users\Ali Khattab\Desktop\Kelma - Copy\Kelma\bin\Debug\Kelma.pdb
+C:\Users\Ali Khattab\Desktop\Kelma - Copy\Kelma\obj\Debug\Kelma.csprojResolveAssemblyReference.cache
+C:\Users\Ali Khattab\Desktop\Kelma - Copy\Kelma\obj\Debug\Kelma.notewrap.resources
+C:\Users\Ali Khattab\Desktop\Kelma - Copy\Kelma\obj\Debug\Kelma.handle.resources
+C:\Users\Ali Khattab\Desktop\Kelma - Copy\Kelma\obj\Debug\Kelma.Zodiac.resources
+C:\Users\Ali Khattab\Desktop\Kelma - Copy\Kelma\obj\Debug\Kelma.csproj.GenerateResource.Cache
+C:\Users\Ali Khattab\Desktop\Kelma - Copy\Kelma\obj\Debug\Kelma.exe
+C:\Users\Ali Khattab\Desktop\Kelma - Copy\Kelma\obj\Debug\Kelma.pdb
+C:\Users\Ali Khattab\Desktop\Kelma - Copy - Copy\Kelma\obj\Debug\Kelma.exe
+C:\Users\Ali Khattab\Desktop\Kelma - Copy - Copy\Kelma\obj\Debug\Kelma.pdb
+C:\Users\Ali Khattab\Desktop\Kelma - Copy - Copy\Kelma\bin\Debug\Kelma.exe
+C:\Users\Ali Khattab\Desktop\Kelma - Copy - Copy\Kelma\bin\Debug\Kelma.pdb
+C:\Users\Ali Khattab\Desktop\Kelma - Copy - Copy\Kelma\obj\Debug\Kelma.csprojResolveAssemblyReference.cache
+C:\Users\Ali Khattab\Desktop\Kelma - Copy - Copy\Kelma\obj\Debug\Kelma.notewrap.resources
+C:\Users\Ali Khattab\Desktop\Kelma - Copy - Copy\Kelma\obj\Debug\Kelma.handle.resources
+C:\Users\Ali Khattab\Desktop\Kelma - Copy - Copy\Kelma\obj\Debug\Kelma.Zodiac.resources
+C:\Users\Ali Khattab\Desktop\Kelma - Copy - Copy\Kelma\obj\Debug\Kelma.csproj.GenerateResource.Cache
+C:\Users\Ali Khattab\Desktop\Kelma - Copy - Copy\Kelma\obj\Debug\Kelma.Properties.Resources.resources
+C:\Users\Ali Khattab\Desktop\Masterkey project\Kelma\obj\Debug\Kelma.exe
+C:\Users\Ali Khattab\Desktop\Masterkey project\Kelma\obj\Debug\Kelma.pdb
+C:\Users\Ali Khattab\Desktop\Masterkey project\Kelma\bin\Debug\Kelma.exe
+C:\Users\Ali Khattab\Desktop\Masterkey project\Kelma\bin\Debug\Kelma.pdb
+C:\Users\Ali Khattab\Desktop\Masterkey project\Kelma\obj\Debug\Kelma.csprojResolveAssemblyReference.cache
+C:\Users\Ali Khattab\Desktop\Masterkey project\Kelma\obj\Debug\Kelma.notewrap.resources
+C:\Users\Ali Khattab\Desktop\Masterkey project\Kelma\obj\Debug\Kelma.handle.resources
+C:\Users\Ali Khattab\Desktop\Masterkey project\Kelma\obj\Debug\Kelma.Properties.Resources.resources
+C:\Users\Ali Khattab\Desktop\Masterkey project\Kelma\obj\Debug\Kelma.Zodiac.resources
+C:\Users\Ali Khattab\Desktop\Masterkey project\Kelma\obj\Debug\Kelma.csproj.GenerateResource.Cache
+C:\Masterkey project\Kelma\bin\Debug\Kelma.exe
+C:\Masterkey project\Kelma\bin\Debug\Kelma.pdb
+C:\Masterkey project\Kelma\obj\Debug\Kelma.csprojResolveAssemblyReference.cache
+C:\Masterkey project\Kelma\obj\Debug\Kelma.notewrap.resources
+C:\Masterkey project\Kelma\obj\Debug\Kelma.handle.resources
+C:\Masterkey project\Kelma\obj\Debug\Kelma.Properties.Resources.resources
+C:\Masterkey project\Kelma\obj\Debug\Kelma.Zodiac.resources
+C:\Masterkey project\Kelma\obj\Debug\Kelma.csproj.GenerateResource.Cache
+C:\Masterkey project\Kelma\obj\Debug\Kelma.exe
+C:\Masterkey project\Kelma\obj\Debug\Kelma.pdb
+F:\Masterkey project\Kelma\bin\Debug\Kelma.exe
+F:\Masterkey project\Kelma\bin\Debug\Kelma.pdb
+F:\Masterkey project\Kelma\obj\Debug\Kelma.csprojResolveAssemblyReference.cache
+F:\Masterkey project\Kelma\obj\Debug\Kelma.notewrap.resources
+F:\Masterkey project\Kelma\obj\Debug\Kelma.handle.resources
+F:\Masterkey project\Kelma\obj\Debug\Kelma.Properties.Resources.resources
+F:\Masterkey project\Kelma\obj\Debug\Kelma.Zodiac.resources
+F:\Masterkey project\Kelma\obj\Debug\Kelma.csproj.GenerateResource.Cache
+F:\Masterkey project\Kelma\obj\Debug\Kelma.exe
+F:\Masterkey project\Kelma\obj\Debug\Kelma.pdb
+G:\Masterkey project\Kelma\obj\Debug\Kelma.csprojResolveAssemblyReference.cache
+G:\Masterkey project\Kelma\obj\Debug\Kelma.notewrap.resources
+G:\Masterkey project\Kelma\obj\Debug\Kelma.handle.resources
+G:\Masterkey project\Kelma\obj\Debug\Kelma.Properties.Resources.resources
+G:\Masterkey project\Kelma\obj\Debug\Kelma.Zodiac.resources
+G:\Masterkey project\Kelma\obj\Debug\Kelma.csproj.GenerateResource.Cache
+G:\Masterkey project\Kelma\obj\Debug\Kelma.exe
+G:\Masterkey project\Kelma\bin\Debug\Kelma.exe
+G:\Masterkey project\Kelma\bin\Debug\Kelma.pdb
+G:\Masterkey project\Kelma\obj\Debug\Kelma.pdb
+G:\Masterkey project\Kelma\obj\Debug\Kelma.Tarrifupdate.resources
+C:\Users\Ali Khattab\Desktop\Masterkey project\Kelma\obj\Debug\Kelma.Tarrifupdate.resources
+G:\MK source codes\Masterkey project\Kelma\bin\Debug\Kelma.exe
+G:\MK source codes\Masterkey project\Kelma\bin\Debug\Kelma.pdb
+G:\MK source codes\Masterkey project\Kelma\obj\Debug\Kelma.csprojResolveAssemblyReference.cache
+G:\MK source codes\Masterkey project\Kelma\obj\Debug\Kelma.Tarrifupdate.resources
+G:\MK source codes\Masterkey project\Kelma\obj\Debug\Kelma.notewrap.resources
+G:\MK source codes\Masterkey project\Kelma\obj\Debug\Kelma.handle.resources
+G:\MK source codes\Masterkey project\Kelma\obj\Debug\Kelma.Properties.Resources.resources
+G:\MK source codes\Masterkey project\Kelma\obj\Debug\Kelma.Zodiac.resources
+G:\MK source codes\Masterkey project\Kelma\obj\Debug\Kelma.csproj.GenerateResource.Cache
+G:\MK source codes\Masterkey project\Kelma\obj\Debug\Kelma.exe
+G:\MK source codes\Masterkey project\Kelma\obj\Debug\Kelma.pdb
